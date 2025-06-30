@@ -29,7 +29,7 @@ Porque además de disfrutar el modelismo, me gusta programar. Esta app nació de
 
 ## 📷 Capturas de pantalla
 
-![Vista de la app]([ruta/a/la/imagen.png](https://github.com/Japeyr/Pintura_Modelismo_Estatico/blob/main/programa-pintura-2.png))
+![Vista de la app](https://github.com/Japeyr/Pintura_Modelismo_Estatico/blob/main/programa-pintura-2.png)
 
 1. Cloná el repositorio:
    ```bash
